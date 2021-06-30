@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Recursos/abrir-carpeta-de-computadora.png</file>
+        <file>Recursos/acerca-de.png</file>
+        <file>Recursos/calculadora.png</file>
+        <file>Recursos/cerrar-sesion.png</file>
+        <file>Recursos/guardar-el-archivo.png</file>
+        <file>Recursos/nuevo-documento.png</file>
+        <file>Recursos/salario.png</file>
+        <file>Recursos/salary.png</file>
+        <file>Recursos/signo-de-exclamacion-en-un-circulo.png</file>
+    </qresource>
+</RCC>
